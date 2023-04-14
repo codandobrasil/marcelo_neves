@@ -26,5 +26,6 @@
 <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img align="center" alt="SQL" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 <img align="center" alt="ARDUINO" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+<img align="center" alt="LINUX" src="[https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)">
 </div><BR>
 ## TUDO AQUILO QUE VOCÊ PODE SONHAR...VOCÊ PODE PROGRAMAR! ##
