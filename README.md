@@ -9,7 +9,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelonevesoficial/)
 
 
-![Marcelo Neves GitHub stats](https://github-readme-stats.vercel.app/api?username=mpneves1974&show_icons=true&theme=radical)
+![Marcelo Neves GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelo_neves&show_icons=true&theme=radical)
 
 ## Tecnologias que eu trabalho:
 
